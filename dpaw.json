@@ -1,0 +1,21 @@
+[
+  {
+    "dpdirectory": "DimPassenger",
+    "dpfilename": "DimPassenger.csv",
+    "gpcopysourse": "Awesomemohammed/ADF_project/refs/heads/main/DimPassenger.csv"
+  },
+  {
+    "dpdirectory": "DimFlight",
+    "dpfilename": "DimFlight.csv",
+    "gpcopysourse": "Awesomemohammed/ADF_project/refs/heads/main/DimFlight.csv"
+  },
+  {
+    "dpdirectory": "DimAirline",
+    "dpfilename": "DimAirline.csv",
+    "gpcopysourse": "Awesomemohammed/ADF_project/refs/heads/main/DimAirline.csv"
+  }
+  
+]
+
+
+
